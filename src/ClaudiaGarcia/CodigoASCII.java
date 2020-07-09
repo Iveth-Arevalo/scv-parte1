@@ -1,12 +1,8 @@
 
-package JuanArevalo;
+package ClaudiaGarcia;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Juan Carlos Arevalo
- */
 public class CodigoASCII {
     
     public static void main(String[] args) {

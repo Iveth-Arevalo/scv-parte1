@@ -1,15 +1,11 @@
 
-package JuanArevalo;
+package ClaudiaGarcia;
 
-/**
- *
- * @author Juan Carlos Arevalo
- */
 public class Bienvenido {
     
     public static void main(String[] args) {
  
-        String nombre="Juan";
+        String nombre="Claudia";
  
         System.out.println("Bienvenido "+nombre);
     }

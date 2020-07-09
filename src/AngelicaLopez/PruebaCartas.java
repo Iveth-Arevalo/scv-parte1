@@ -1,10 +1,6 @@
 
-package JhonatanCortez;
+package AngelicaLopez;
 
-/**
- *
- * @author JHONATAN CORTEZ
- */
 public class PruebaCartas {
     public static void main(String[] args) {
         PaqueteDeCartas paquete = new PaqueteDeCartas();

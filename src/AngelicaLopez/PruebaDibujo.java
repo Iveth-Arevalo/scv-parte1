@@ -1,12 +1,8 @@
 
-package JhonatanCortez;
+package AngelicaLopez;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author JHONATAN CORTEZ
- */
 public class PruebaDibujo {
     public static void main(String[] args) {
         DibujoArcoIris panel = new DibujoArcoIris();

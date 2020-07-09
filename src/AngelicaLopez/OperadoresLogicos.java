@@ -1,10 +1,6 @@
 
-package JhonatanCortez;
+package AngelicaLopez;
 
-/**
- *
- * @author JHONATAN CORTEZ
- */
 public class OperadoresLogicos {
     public static void main(String[] args) {
         System.out.printf("%s%n%s: %b%n%s: %b%n%s: %b%n%s: %b%n%n",

@@ -1,10 +1,6 @@
 
-package JhonatanCortez;
+package AngelicaLopez;
 
-/**
- *
- * @author JHONATAN CORTEZ
- */
 public class Carta {
     //varibales que contienen las 2 opciones de las cartas
     private final String cara;

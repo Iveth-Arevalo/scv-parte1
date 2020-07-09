@@ -1,14 +1,11 @@
 
-package JhonatanCortez;
+package AngelicaLopez;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
-/**
- *
- * @author JHONATAN CORTEZ
- */
+
 public class DibujoArcoIris extends JPanel{
     //clase para Dibujar un arcoiris 
     private final static Color VIOLETA = new Color(128, 0, 128);
